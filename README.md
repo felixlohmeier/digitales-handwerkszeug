@@ -12,9 +12,13 @@ Dieses Skript entsteht in der Zeit von September bis Oktober 2019 im Rahmen der 
 
 ## Arbeitsumgebung
 
-Damit Sie auch zukünftig Ihr "Handwerkszeug" dabei haben, arbeiten Sie mit Ihrem eigenen Laptop. Darauf installieren wir im Kurs die Software [VirtualBox](https://www.virtualbox.org/), die es Ihnen ermöglicht, einen Webserver auf ihrem Computer zu installieren, ohne dass ihr gewohntes Betriebssystem verändert wird. Sie erhalten dann für jede Lehreinheit eine vorkonfigurierte virtuelle Maschine, um ohne langwierige Installation die Programme ausprobieren zu können. Learning by doing.
+Damit Sie auch zukünftig Ihr "Handwerkszeug" dabei haben, arbeiten Sie mit Ihrem eigenen Laptop. Darauf installieren wir im Kurs die Software [VirtualBox](https://www.virtualbox.org/), die es Ihnen ermöglicht, einen Webserver auf ihrem Computer zu installieren, ohne dass ihr gewohntes Betriebssystem verändert wird. Sie erhalten eine vorkonfigurierte virtuelle Maschine, um ohne langwierige Installation die Programme ausprobieren zu können. Learning by doing.
 
 **Voraussetzung:** Sie benötigen einen Computer, der einigermaßen aktuell ist (etwa ab Baujahr 2013), über mindestens 4 GB RAM verfügt und auf dem Sie Software installieren können (Windows, macOS oder Linux).
+
+Materialien:
+* [Download Appliance für VirtualBox](https://drive.switch.ch/index.php/s/ePcuNSGALgPD1UJ) (user: `digi`, pass: `digi2019`)
+* [Geteiltes Dokument (CodiMD)](https://pad.gwdg.de/DjgnTSE5RxOv7HQnyZ1Dsg)
 
 ## Inhalte
 
