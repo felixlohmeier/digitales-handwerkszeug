@@ -31,7 +31,7 @@ Gemeinsam bearbeiten wir Lehrmaterialien der internationalen Community [Library 
 3. 18.09.2019
 4. 19.09.2019
 5. 20.09.2019
-6. 26.09.2019
+6. 26.10.2019
 
 ## Lerntagebücher
 
