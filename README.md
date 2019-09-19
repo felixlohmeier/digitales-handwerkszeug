@@ -17,7 +17,8 @@ Damit Sie auch zukünftig Ihr "Handwerkszeug" dabei haben, arbeiten Sie mit Ihre
 **Voraussetzung:** Sie benötigen einen Computer, der einigermaßen aktuell ist (etwa ab Baujahr 2013), über mindestens 4 GB RAM verfügt und auf dem Sie Software installieren können (Windows, macOS oder Linux).
 
 Materialien:
-* [Download Appliance für VirtualBox](https://drive.switch.ch/index.php/s/ePcuNSGALgPD1UJ) (user: `digi`, pass: `digi2019`)
+* [VirtualBox Appliance für Jupyter Notebook](https://drive.switch.ch/index.php/s/ePcuNSGALgPD1UJ) (user: `digi`, pass: `digi2019`)
+* [VirtualBox Appliance für VuFind](https://drive.switch.ch/index.php/s/smsvrHZaiumh2WD)
 * [Geteiltes Dokument (CodiMD)](https://pad.gwdg.de/DjgnTSE5RxOv7HQnyZ1Dsg)
 
 ## Inhalte
