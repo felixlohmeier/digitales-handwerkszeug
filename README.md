@@ -19,6 +19,7 @@ Damit Sie auch zukünftig Ihr "Handwerkszeug" dabei haben, arbeiten Sie mit Ihre
 Materialien:
 * [VirtualBox Appliance für Jupyter Notebook](https://drive.switch.ch/index.php/s/ePcuNSGALgPD1UJ) (user: `digi`, pass: `digi2019`)
 * [VirtualBox Appliance für VuFind](https://drive.switch.ch/index.php/s/smsvrHZaiumh2WD)
+* [VirtualBox Appliance für Koha](https://drive.switch.ch/index.php/s/vJ8x4vMmKsUisJK)
 * [Geteiltes Dokument (CodiMD)](https://pad.gwdg.de/DjgnTSE5RxOv7HQnyZ1Dsg)
 
 ## Inhalte
