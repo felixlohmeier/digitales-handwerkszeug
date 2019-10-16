@@ -2,7 +2,7 @@
 
 In diesem Kurs lernen Sie eine Reihe von Techniken und Werkzeugen kennen, um große Datenmengen zu bearbeiten, manuelle Arbeiten zu automatisieren und effektiv mit WissenschaftlerInnen und IT-KollegInnen zusammenzuarbeiten. Kurzum: Digitales Handwerkszeug, das Ihnen die Arbeit in einer modernen Bibliothek erleichtert.
 
-Dieses Skript entsteht in der Zeit von September bis Oktober 2019 im Rahmen der folgenden Lehrveranstaltung:
+Dieses Skript entstand in der Zeit von September bis Oktober 2019 im Rahmen der folgenden Lehrveranstaltung:
 
 * Kurs "Digitales Handwerkszeug für BibliothekarInnen"
 * Dozent: [Felix Lohmeier](http://felixlohmeier.de)
@@ -24,16 +24,31 @@ Materialien:
 
 ## Inhalte
 
-Gemeinsam bearbeiten wir Lehrmaterialien der internationalen Community [Library Carpentry](https://librarycarpentry.org) ([Introduction to Data](https://librarycarpentry.org/lc-data-intro/), [Shell](https://librarycarpentry.github.io/lc-shell/), [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/), [Git](https://librarycarpentry.github.io/lc-git/), [Wikidata](https://librarycarpentry.org/lc-wikidata/)) und schauen hinter die Kulissen von Bibliothekskatalogen ([Koha](https://koha-community.org/)), Repository-Software ([DSpace](https://duraspace.org/dspace/)) und Discovery-Systemen ([VuFind](https://vufind.org) mit [Solr](https://lucene.apache.org/solr/)).
+Gemeinsam bearbeiten wir Lehrmaterialien der internationalen Community [Library Carpentry](https://librarycarpentry.org) ([Introduction to Data](https://librarycarpentry.org/lc-data-intro/), [The Unix Shell](https://librarycarpentry.github.io/lc-shell/), [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/)) und schauen hinter die Kulissen von Bibliothekskatalogen ([Koha](https://koha-community.org/)), und Discovery-Systemen ([VuFind](https://vufind.org) mit [Solr](https://lucene.apache.org/solr/)).
 
 **Termine:**
 
 1. 16.09.2019
+   1. Motivation
+   2. Arbeitsumgebung (CodiMD, VirtualBox und Jupyter Notebook)
+   3. Library Carpentry Lesson [Introduction to Data](https://librarycarpentry.org/lc-data-intro/) inklusive Regular Expressions
+   4. Lerntagebücher als Prüfungsleistung
 2. 17.09.2019
+   1. Datenschutz und Anonymität im Internet
+   2. Library Carpentry Lesson [The Unix Shell](https://librarycarpentry.github.io/lc-shell/) mit VirtualBox Appliance für Jupyter Notebook (s.o.)
 3. 18.09.2019
+   1. Library Carpentry Lesson [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/)
+   2. Wikidata [Query Service](https://query.wikidata.org)
 4. 19.09.2019
+   1. Anreicherung mit OpenRefine ([aus GND](http://blog.lobid.org/2018/08/27/openrefine.html) und [aus Wikidata](https://libjohn.github.io/openrefine/hands-on-reconciliation.html))
+   2. Automatisierung von OpenRefine mit [openrefine-client](https://libjohn.github.io/openrefine/hands-on-reconciliation.html) und Shell-Script
+   3. [VuFind Tutorial](https://felixlohmeier.gitbooks.io/vufind-tutorial-de/content/04_Installation_Testimport.html) (Kapitel 4-9) mit VirtualBox Appliance für VuFind (s.o.)
 5. 20.09.2019
+   1. [Solr Tutorial](https://lucene.apache.org/solr/guide/8_1/solr-tutorial.html#exercise-1)
+   2. [Koha Tutorial](https://openschoolsolutions.org/how-to-install-and-set-up-koha-for-schools-part-1/) mit VirtualBox Appliance für Koha (s.o.)
 6. 26.10.2019
+   1. Zusammenfassung (mit Antworten auf Fragen aus den Lerntagebüchern)
+   2. Install Party und Empfehlungen für das Selbststudium
 
 ## Lerntagebücher
 
