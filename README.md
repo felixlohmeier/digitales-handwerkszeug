@@ -41,7 +41,7 @@ Gemeinsam bearbeiten wir Lehrmaterialien der internationalen Community [Library 
    2. Wikidata [Query Service](https://query.wikidata.org)
 4. 19.09.2019
    1. Anreicherung mit OpenRefine ([aus GND](http://blog.lobid.org/2018/08/27/openrefine.html) und [aus Wikidata](https://libjohn.github.io/openrefine/hands-on-reconciliation.html))
-   2. Automatisierung von OpenRefine mit [openrefine-client](https://libjohn.github.io/openrefine/hands-on-reconciliation.html) und Shell-Script
+   2. Automatisierung von OpenRefine mit [openrefine-client](https://github.com/opencultureconsulting/openrefine-client) und Shell-Script
    3. [VuFind Tutorial](https://felixlohmeier.gitbooks.io/vufind-tutorial-de/content/04_Installation_Testimport.html) (Kapitel 4-9) mit VirtualBox Appliance für VuFind (s.o.)
 5. 20.09.2019
    1. [Solr Tutorial](https://lucene.apache.org/solr/guide/8_1/solr-tutorial.html#exercise-1)
